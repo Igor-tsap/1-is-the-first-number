@@ -1,0 +1,10 @@
+Companies Using Python:
+Google
+Instagram
+Nasa
+Microsoft
+Career opportunities:
+Python Developer
+Data Analyst
+Ai Engineer
+Automation specialist
