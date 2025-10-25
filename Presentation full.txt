@@ -11,3 +11,8 @@ Python Developer
 Data Analyst
 Ai Engineer
 Automation specialist
+
+Slide 1
+Why Python is the Language of the Future
+The presentation by team1
+What is Python?
