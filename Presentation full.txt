@@ -16,3 +16,8 @@ Slide 1
 Why Python is the Language of the Future
 The presentation by team1
 What is Python?
+
+Slide 2
+- High-level programming language
+- Easy to read and learn
+- Created by Guido van Rossum
