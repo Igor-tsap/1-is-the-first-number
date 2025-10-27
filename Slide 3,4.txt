@@ -1,0 +1,12 @@
+Why is Python Popular?
+- Simple syntax
+- Fast learning curve
+﻿﻿- Huge community
+-﻿﻿Thousands of libraries
+
+Real World Usage
+- Artificial Intelligence
+- Web Development
+- Game Development
+- Data Science
+- Automation
